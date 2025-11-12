@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    int a=0,b=0,c=0;
-    cin>>a>>b>>c;
-    cout<<(a+b)/c;
+    int x=0,y=0;
+    cin>>x>>y;
+    cout<<x/y<<" "<<x%y;
     return 0;
 }
